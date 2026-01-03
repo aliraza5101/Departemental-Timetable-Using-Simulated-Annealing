@@ -136,6 +136,8 @@ This helps analyze convergence behavior.
 * Room
 * Time slot
 
+<img width="544" height="860" alt="image" src="https://github.com/user-attachments/assets/ab4f5844-1fc4-47fc-9844-cb6eed098fd5" />
+
 ---
 
 ## 🖥️ Technologies Used
